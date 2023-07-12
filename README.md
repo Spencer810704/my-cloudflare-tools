@@ -16,7 +16,7 @@ Table of contents
 git clone https://github.com/Spencer810704/my-cloudflare-tools
 
 # 切換目錄
-cd dns-check-tool
+cd my-cloudflare-tools
 
 # 安裝套件
 pip install -r requirements.txt
